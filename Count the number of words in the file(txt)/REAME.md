@@ -1,4 +1,5 @@
 '
+
 	word = ''
 	character = '`~!@#$%^&*()_-=+|\\]}[{;:\'",<.>/?' 
 	lenght = 0
@@ -28,4 +29,5 @@
 			bug = 0			# reset biến "bug"
 
 	print(lenght+1)
-'
+	
+
